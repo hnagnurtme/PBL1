@@ -1,0 +1,11 @@
+Trung, 35000
+Thit bo, 150000
+Thit ga, 150000
+Thit lon, 100000
+Nem ran, 80000
+Rau xao, 30000
+Dau phu, 30000
+Ca chien, 100000
+Canh, 50000
+Nuoc Ngot, 20000
+Sushi, 50000
